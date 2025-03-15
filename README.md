@@ -50,7 +50,7 @@ git clone https://github.com/monicamachadodev/kmeans-color-compression.git
 ```
 Instale as dependências:
 ```bash
-pip install numpy pandas matplotlib plotly scikit-learn
+pip install numpy pandas matplotlib scikit-learn
 ```
 Execute o notebook no Jupyter Notebook ou Google Colab.
 
