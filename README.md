@@ -13,21 +13,10 @@ As imagens digitais geralmente contêm uma grande quantidade de cores. Para redu
 
 ## Compreensão dos Dados
 
-<div style="display: flex; align-items: left;">
-    <img src="[caminho/para/sua-imagem.jpg](https://github.com/monicamachadodev/kmeans-color-compression/blob/main/using_kmeans_for_color_compression_tulips_photo.jpg)" alt="Imagem da Tulipa" width="300">
-    <p style="margin-left: 20px;">
-        A imagem utilizada no projeto é uma fotografia de **tulipas**. Cada pixel da imagem pode ser representado 
-        como um ponto no espaço de cores RGB (Red, Green, Blue), formando um conjunto de dados tridimensional.
-    </p>
-</div>
+| ![Imagem da Tulipa](https://github.com/monicamachadodev/kmeans-color-compression/blob/main/using_kmeans_for_color_compression_tulips_photo.jpg) |  A imagem utilizada no projeto é uma fotografia de tulipas. Cada pixel da imagem pode ser representado como um ponto no espaço de cores RGB (Red, Green, Blue), formando um conjunto de dados tridimensional. Essa fotografia tem 320 pixels verticais e 240 pixels horizontais.|
+|---|---|
 
-A imagem utilizada no projeto é uma fotografia de tulipas. Cada pixel da imagem pode ser representado como um ponto no espaço de cores RGB (Red, Green, Blue), formando um conjunto de dados tridimensional.
-
-<img src="https://github.com/monicamachadodev/kmeans-color-compression/blob/main/using_kmeans_for_color_compression_tulips_photo.jpg">
-
-## Implementação
-
-*O projeto segue as seguintes etapas:*
+**O projeto segue as seguintes etapas:**
 
 - Carregamento da imagem – A imagem original é carregada e convertida em uma matriz de pixels.
 
