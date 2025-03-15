@@ -40,7 +40,7 @@ As imagens digitais geralmente contêm uma grande quantidade de cores. Para redu
 
 - *Linguagem:* `Python`
 
-- *Bibliotecas:* `numpy`, `pandas`, `matplotlib`, `plotly`, `scikit-learn`
+- *Bibliotecas:* `numpy`, `pandas`, `matplotlib`, `scikit-learn`
 
 ## Como Executar o Projeto
 
