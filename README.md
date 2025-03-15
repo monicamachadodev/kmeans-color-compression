@@ -2,14 +2,14 @@
 
 ## Visão Geral
 
-Este projeto demonstra o uso do algoritmo K-means para compressão de cores em imagens. 
+Este projeto demonstra o uso do algoritmo *K-means* para compressão de cores em imagens. 
 > O objetivo é reduzir o número de cores de uma imagem, agrupando pixels semelhantes e substituindo-os por cores representativas.
 
 Isso permite simplificar imagens sem perder significativamente sua qualidade visual.
 
 ## Compreensão do Problema
 
-As imagens digitais geralmente contêm uma grande quantidade de cores. Para reduzir essa complexidade, podemos usar K-means clustering para agrupar cores semelhantes e substituir os pixels pelas cores centrais de cada cluster. Essa técnica tem aplicações em compressão de imagens, redução de ruído e segmentação de imagens.
+As imagens digitais geralmente contêm uma grande quantidade de cores. Para reduzir essa complexidade, podemos usar *K-means clustering* para agrupar cores semelhantes e substituir os pixels pelas cores centrais de cada cluster. Essa técnica tem aplicações em compressão de imagens, redução de ruído e segmentação de imagens.
 
 ## Compreensão dos Dados
 
