@@ -30,17 +30,17 @@ As imagens digitais geralmente contêm uma grande quantidade de cores. Para redu
 
 ## Resultados
 
-A imagem final possui um conjunto reduzido de cores, mantendo a aparência visual similar à original.
+- A imagem final possui um conjunto reduzido de cores, mantendo a aparência visual similar à original.
 
-O ajuste de k impacta diretamente na qualidade e no nível de detalhe da imagem comprimida.
+- O ajuste de k impacta diretamente na qualidade e no nível de detalhe da imagem comprimida.
 
-O método pode ser usado para outras aplicações como segmentação de imagens e compressão de arquivos.
+- O método pode ser usado para outras aplicações como segmentação de imagens e compressão de arquivos.
 
 ## Requisitos
 
 - *Linguagem:* `Python`
 
-- *Bibliotecas:* `numpy`, `openCV`, `pandas`, `matplotlib`, `plotly`, `scikit-learn`
+- *Bibliotecas:* `numpy`, `pandas`, `matplotlib`, `plotly`, `scikit-learn`
 
 ## Como Executar o Projeto
 
@@ -50,7 +50,7 @@ git clone https://github.com/monicamachadodev/kmeans-color-compression.git
 ```
 Instale as dependências:
 ```bash
-pip install numpy pandas matplotlib scikit-learn
+pip install numpy pandas matplotlib plotly scikit-learn
 ```
 Execute o notebook no Jupyter Notebook ou Google Colab.
 
