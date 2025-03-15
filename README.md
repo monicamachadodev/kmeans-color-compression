@@ -14,7 +14,7 @@ As imagens digitais geralmente contêm uma grande quantidade de cores. Para redu
 ## Compreensão dos Dados
 
 A imagem utilizada no projeto é uma fotografia de tulipas. Cada pixel da imagem pode ser representado como um ponto no espaço de cores RGB (Red, Green, Blue), formando um conjunto de dados tridimensional.
-
+<img src="">
 ## Implementação
 
 *O projeto segue as seguintes etapas:*
