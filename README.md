@@ -57,7 +57,7 @@ Execute o notebook no Jupyter Notebook ou Google Colab.
 
 ## Conclusão
 
-Este projeto demonstra como o *K-means* pode ser usado para reduzir a quantidade de cores em uma imagem, mantendo sua estrutura visual. O experimento também mostra como a escolha do valor de k afeta a qualidade da compressão.
+Este projeto demonstra como o **K-means** pode ser usado para reduzir a quantidade de cores em uma imagem, mantendo sua estrutura visual. O experimento também mostra como a escolha do valor de k afeta a qualidade da compressão.
 
 ##  Próximos Passos
 
