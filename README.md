@@ -19,15 +19,15 @@ A imagem utilizada no projeto é uma fotografia de tulipas. Cada pixel da imagem
 
 **O projeto segue as seguintes etapas:**
 
-- Carregamento da imagem – A imagem original é carregada e convertida em uma matriz de pixels.
+- Carregamento da imagem: A imagem original é carregada e convertida em uma matriz de pixels.
 
-- Normalização dos dados – Os valores RGB são normalizados para facilitar o processamento.
+- Normalização dos dados: Os valores RGB são normalizados para facilitar o processamento.
 
-- Aplicando K-means – O algoritmo é treinado para agrupar as cores em k clusters.
+- Aplicando K-means: O algoritmo é treinado para agrupar as cores em k clusters.
 
-- Reconstrução da imagem – Cada pixel é substituído pela cor do centro do cluster ao qual pertence.
+- Reconstrução da imagem: Cada pixel é substituído pela cor do centro do cluster ao qual pertence.
 
-- Avaliação – A qualidade da compressão é analisada comparando imagens geradas com diferentes valores de k.
+- Avaliação: A qualidade da compressão é analisada comparando imagens geradas com diferentes valores de k.
 
 ## Resultados
 
@@ -51,7 +51,7 @@ git clone https://github.com/monicamachadodev/kmeans-color-compression.git
 ```
 Instale as dependências:
 ```bash
-pip install numpy pandas matplotlib scikit-learn
+pip install -r requirements.txt
 ```
 Execute o notebook no Jupyter Notebook ou Google Colab.
 
