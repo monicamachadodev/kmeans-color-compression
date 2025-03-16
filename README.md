@@ -14,7 +14,7 @@ As imagens digitais geralmente contêm uma grande quantidade de cores. Para redu
 ## Compreensão dos Dados
 
 <div>
-  <img src="https://github.com/monicamachadodev/kmeans-color-compression/tree/main/img" alt="Imagem de varias Tulipas" width="300" style="left">
+  <img src="https://github.com/monicamachadodev/kmeans-color-compression/blob/main/img/tulips.jpg" alt="Imagem de varias Tulipas" width="300" style="left">
   <p style="text-align:right">
     A imagem utilizada no projeto é uma fotografia de tulipas. Cada pixel da imagem pode ser representado como um ponto no espaço de cores RGB (Red, Green, Blue), formando um conjunto de dados tridimensional. Essa fotografia tem 320 pixels verticais e 240 pixels horizontais.
   </p>
