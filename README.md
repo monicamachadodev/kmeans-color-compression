@@ -12,10 +12,10 @@ Isso permite simplificar imagens sem perder significativamente sua qualidade vis
 As imagens digitais geralmente contêm uma grande quantidade de cores. Para reduzir essa complexidade, podemos usar *K-means clustering* para agrupar cores semelhantes e substituir os pixels pelas cores centrais de cada cluster. Essa técnica tem aplicações em compressão de imagens, redução de ruído e segmentação de imagens.
 
 ## Compreensão dos Dados
-
-<img src="https://github.com/monicamachadodev/kmeans-color-compression/blob/main/img/tulips.jpg" alt="Imagem de varias Tulipas" width="300" style="left">
-
-A imagem utilizada no projeto é uma fotografia de tulipas. Cada pixel da imagem pode ser representado como um ponto no espaço de cores RGB (Red, Green, Blue), formando um conjunto de dados tridimensional. Essa fotografia tem 320 pixels verticais e 240 pixels horizontais.
+<div>
+<p style="text-align:left"> A imagem utilizada no projeto é uma fotografia de tulipas. Cada pixel da imagem pode ser representado como um ponto no espaço de cores RGB (Red, Green, Blue), formando um conjunto de dados tridimensional. Essa fotografia tem 320 pixels verticais e 240 pixels horizontais.</p>
+<img src="https://github.com/monicamachadodev/kmeans-color-compression/blob/main/img/tulips.jpg" alt="Imagem de varias Tulipas" style="center">
+</div>
 
 **O projeto segue as seguintes etapas:**
 
