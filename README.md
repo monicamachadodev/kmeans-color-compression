@@ -33,7 +33,7 @@ Aqui está um exemplo de compressão de cores usando **K-means**: Essa fotografi
 
 | Imagem Original | K=3 | K=5 | K=10 |
 |---|---|---|---|
-| ![Original](images/tulipa.jpg) | ![K=3](images/tulipa_k3.jpg) | ![K=5](images/tulipa_k5.jpg) | ![K=10](images/tulipa_k10.jpg) |
+| ![Original](img/tulips.jpg) | ![K=3](img/k3.png) | ![K=5](img/k5.png) | ![K=10](img/k10.png) |
 
 Podemos ver que, à medida que **K aumenta**, a imagem se aproxima mais da original, mantendo menos cores distintas.
 
